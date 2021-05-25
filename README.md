@@ -37,5 +37,17 @@ The UML design for development of application JAVA slightly differs compared to 
 UML Class Diagram (CPP)
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/Class_Diagram/CPP_UML_CLASS_DIAGRAM.JPG?raw=true)
 
+UML Class Diagram (JAVA)
+![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/Class_Diagram/JAVA_UML_Class_Diagram.JPG?raw=true)
+
+
 
 ### Implementation details
+The application prototype is implemented in both the languages CPP as well as JAVA. Initially the classes are designed based on the attributes and functionality dependency.
+As JAVA and CPP supports bottom up design. The lower classes which are independent designed first later on the dependent one. And the reusability of code is ensured while designing through inheritance concept of OOP.
+
+The implementation file in C++ can be found in CPP/main.cpp to run this one need to have compiler for C++ program to run.
+
+The implementation files in JAVA can be found in JAVA/ directory. Ther are various files based on the classes and their functionalities. To start running succuesfully from scratch need to run JAVA/firstpage.java as it is the base for other classes.
+
+
