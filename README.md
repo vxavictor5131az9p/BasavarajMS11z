@@ -1,6 +1,6 @@
 # HDBRTS_Management_System
 ### Introduction
-HDBRTS is a bus transit system which is the first BRTS branch in Karnataka named "Chigari". 
+HDBRTS is a bus transit system which is the first BRTS branch in Karnataka named **"Chigari"**. 
 This system is located between the cities Hubli-Dharwad to help passengers to travel between the cities. 
 In this system there will be different types of buses like 200,201&100 where types have their implicit meaning and there is the capacity for the buses up to which it can take the passengers in. 
 There are predefined stops between the cities to where passengers can travel through. 
@@ -34,10 +34,11 @@ To develop an application to monitor the whole HDBRTS system and manipulate reco
 The application is built based on the object oriented principles. The UML diagram represents the functionalities and overview of the system. 
 The UML design for development of application JAVA slightly differs compared to CPP as there is no concept of pointers in JAVA.
 
-UML Class Diagram (CPP)
+**UML Class Diagram (CPP)**
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/Class_Diagram/CPP_UML_CLASS_DIAGRAM.JPG?raw=true)
 
-UML Class Diagram (JAVA)
+
+**UML Class Diagram (JAVA)**
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/Class_Diagram/JAVA_UML_Class_Diagram.JPG?raw=true)
 
 
