@@ -51,25 +51,25 @@ The implementation file in C++ can be found in CPP/main.cpp to run this one need
 
 The implementation files in JAVA can be found in JAVA/ directory. Ther are various files based on the classes and their functionalities. To start running succuesfully from scratch need to run JAVA/firstpage.java as it is the base for other classes.
 
-**Login/Register**
+**Login/Register** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/login_reg.JPG?raw=true)
 
-**Menu**
+**Menu** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/menu.JPG?raw=true)
 
-**Employee Frame(Operations related to employee)**
+**Employee Frame(Operations related to employee)** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/emp.JPG?raw=true)
 
-**Station**
+**Station** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/station.JPG?raw=true)
 
-**Passenger in Station**
+**Passenger in Station** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/pasinstation.JPG?raw=true)
 
-**Bus(Bus100, Bus200 and Bus201)**
+**Bus(Bus100, Bus200 and Bus201)** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/busoperations.JPG?raw=true)
 
-**Bus(Bus100, Bus200 and Bus201)**
+**Green BRTS** <br/>
 ![alt text](https://github.com/BasavarajMS11/HDBRTS_Management_System/blob/master/Image/greenBRTS.JPG?raw=true)
 
 
